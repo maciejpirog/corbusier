@@ -5,7 +5,7 @@ A set of Emacs themes based on Le Corbusier's Architectural Polychromy
 
 ## Notes
 
-- Not much of a set: only one theme is present at the moment, the light version is under development. The dark theme is at a very early stage of development.
+- Not much of a set: only one theme is present at the moment: the dark version is at a rather early stage of development, while the light version is not ready for its debut yet.
 
 - The colours in Le Corbusier's original palette were not designed to be used in this way, but it is only an experiment. The colours turn out a bit darkish and gloomy, esp. in modes with few builtins (e.g., Haskell).
 
