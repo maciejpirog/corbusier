@@ -1,7 +1,7 @@
 # corbusier
 A set of Emacs themes based on Le Corbusier's Architectural Polychromy
 
-<img alt="Haskell in corbusier-dark mode" src="https://raw.githubusercontent.com/maciejpirog/corbusier/main/screenshots/1.png" width="45%"> <img alt="Haskell in corbusier-dark mode" src="https://raw.githubusercontent.com/maciejpirog/corbusier/main/screenshots/2.png" width="45%">
+<img alt="Haskell in corbusier-dark mode" src="https://raw.githubusercontent.com/maciejpirog/corbusier/main/screenshots/1.png" width="45%"> <img alt="C in corbusier-dark mode" src="https://raw.githubusercontent.com/maciejpirog/corbusier/main/screenshots/2.png" width="45%">
 
 ## Notes
 
