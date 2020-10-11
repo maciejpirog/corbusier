@@ -45,16 +45,25 @@
    '(font-latex-sectioning-5-face ((t (:foreground "#f4bd48" :weight bold ))))
 
    ;; Racket
-   '(racket-selfeval-face ((t (:foreground "#d15c32" :weight normal ))))
+   '(web-mode-html-tag-face ((t (:foreground "#d15c32" :weight normal ))))
+
+   ;; Web
+   '(web-mode-html-tag-face ((t (:foreground "#7facc6" :weight normal))))
+   '(web-mode-html-attr-name-face ((t (:foreground "#b3c8cd" :weight normal))))
+   '(web-mode-html-tag-bracket-face ((t (:foreground "#b3c8cd" :weight normal))))
+   '(web-mode-html-attr-value-face ((t (:foreground "#f7cc9d" :weight normal))))
+
+   ;; Shell
+   '(sh-heredoc ((t (:foreground "#baa494" :weight normal))))
 
    )
 
 ;;;###autoload
-(and load-file-name
-     (boundp 'custom-theme-load-path)
-     (add-to-list 'custom-theme-load-path
-                  (file-name-as-directory
-                  (file-name-directory load-file-name))))
+;;(and load-file-name
+;;     (boundp 'custom-theme-load-path)
+;;     (add-to-list 'custom-theme-load-path
+;;                  (file-name-as-directory
+;;                  (file-name-directory load-file-name))))
 ;; Automatically add this theme to the load path
 
 (provide-theme 'corbusier-dark)
